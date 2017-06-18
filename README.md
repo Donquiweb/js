@@ -6,6 +6,9 @@ JavaScript Style Guide :
 https://github.com/airbnb/javascript  
 Google JavaScript Style Guide :   
 https://google.github.io/styleguide/jsguide.html  
+JavaScript Standard Style by Feross Aboukhadijeh  
+https://github.com/feross/standard  
+https://standardjs.com/demo.html
 
 # vanillajs implementation
 Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications.  
